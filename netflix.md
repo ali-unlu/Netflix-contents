@@ -1,12 +1,3 @@
----
-title: "Netflix"
-author: "Ali Unlu"
-date: "8/31/2021"
-output: 
-  html_document: 
-    keep_md: yes
----
-
 
 
 # Netflix Shows
